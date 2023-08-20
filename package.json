@@ -1,0 +1,23 @@
+{
+  "name": "tg_bot_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.6.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22",
+    "pg": "^8.11.2",
+    "pg-hstore": "^2.3.4",
+    "prompts": "^2.4.2",
+    "sequelize": "^6.32.1",
+    "ws": "^8.13.0"
+  },
+  "description": ""
+}
